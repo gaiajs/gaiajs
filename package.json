@@ -19,9 +19,6 @@
     "underscore": "^1.6.0",
     "winston": "^0.7.3"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:eyolas/gaia.git"
