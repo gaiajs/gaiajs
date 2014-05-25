@@ -8,3 +8,7 @@
   - [ ] Add config for override the default config of bundles
 
 - [ ] Add CRUD's generator for models
+
+- [ ] Add documentation
+  - [ ] config
+  - [ ] application
