@@ -1,6 +1,6 @@
-- [ ] Rework database
-  - [ ] Delete the generator of database (too specific on my project)
-  - [ ] database must be manage connection not the driver
+- [x] Rework database
+  - [x] Delete the generator of database (too specific on my project)
+  - [x] database must be manage connection not the driver
 
 - [ ] add management of bundle (or package no name for the moment)
   - [ ] add loader of package
