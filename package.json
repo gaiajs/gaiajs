@@ -3,9 +3,6 @@
   "version": "0.1.0",
   "description": "framework based on koa js",
   "main": "lib/index.js",
-  "bin": {
-    "gaia": "./bin/gaia.js"
-  },
   "dependencies": {
     "co": "^3.0.6",
     "glob": "^3.2.9",
