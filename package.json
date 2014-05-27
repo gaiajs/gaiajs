@@ -3,11 +3,14 @@
   "version": "0.1.0",
   "description": "framework based on koa js",
   "main": "lib/index.js",
+  "bin": {
+    "gaia": "./bin/gaia.js"
+  },
   "dependencies": {
     "co": "^3.0.6",
     "glob": "^3.2.9",
     "js-yaml": "^3.0.2",
-    "koa": "^0.5.5",
+    "koa": "^0.6.1",
     "koa-bodyparser": "^1.0.1",
     "koa-common": "^1.2.0",
     "koa-i18n": "^0.1.4",
@@ -29,5 +32,5 @@
     "url": "git@github.com:eyolas/gaia.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
