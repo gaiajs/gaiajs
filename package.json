@@ -5,6 +5,7 @@
   "main": "lib/index.js",
   "dependencies": {
     "co": "^3.0.6",
+    "debug": "^0.8.1",
     "glob": "^3.2.9",
     "js-yaml": "^3.0.2",
     "koa": "^0.6.1",
