@@ -1,5 +1,5 @@
 {
-  "name": "gaia",
+  "name": "gaiajs",
   "version": "0.1.0",
   "description": "framework based on koa js",
   "main": "lib/index.js",
