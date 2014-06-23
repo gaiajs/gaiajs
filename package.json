@@ -1,6 +1,6 @@
 {
   "name": "gaiajs",
-  "version": "0.1.0",
+  "version": "1.0.0-alpha1",
   "description": "framework based on koa js",
   "main": "lib/index.js",
   "dependencies": {
@@ -27,8 +27,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:eyolas/gaia.git"
+    "url": "git@github.com:gaiajs/gaiajs.git"
   },
-  "author": "",
+  "author": "David Touzet",
   "license": "MIT"
 }
