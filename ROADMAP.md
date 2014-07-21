@@ -4,6 +4,8 @@
 
 - [x] Add CRUD's generator for models
 
+- [x] Add Unit test
+
 - [ ] Add documentation
   - [ ] config
   - [ ] application
