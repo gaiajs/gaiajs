@@ -1,6 +1,6 @@
 {
   "name": "gaiajs",
-  "version": "1.0.0-alpha7",
+  "version": "1.0.0-alpha8",
   "description": "framework based on koa js",
   "main": "lib/index.js",
   "dependencies": {
